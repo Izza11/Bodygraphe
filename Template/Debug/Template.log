@@ -1,0 +1,14 @@
+﻿  Main.cpp
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(882): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(890): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(898): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1027): warning C4102: 'http': unreferenced label
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1389): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1391): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1393): warning C4305: '+=': truncation from 'double' to 'float'
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1372): warning C4101: 'nBytes': unreferenced local variable
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1372): warning C4101: 'i': unreferenced local variable
+d:\spring2018\cgt-521\project\bodygraphe_midi\template\main.cpp(1373): warning C4101: 'stamp': unreferenced local variable
+  Template.vcxproj -> D:\Spring2018\CGT-521\project\Bodygraphe_MIDI\Debug\Template.exe
+  Template.vcxproj -> D:\Spring2018\CGT-521\project\Bodygraphe_MIDI\Debug\Template.pdb (Full PDB)
